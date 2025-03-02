@@ -1,0 +1,8 @@
+path: Outputs
+
+train: images/train
+val: images/valid
+test: images/test
+
+nc : 3
+names: ['label-1', 'label-2', 'label-3']
